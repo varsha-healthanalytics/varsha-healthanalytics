@@ -133,7 +133,7 @@ https://github.com/varsha-healthanalytics/anc-monitoring-evaluation-framework
 
 # 📫 Connect With Me
 
-GitHub: **github.com/varsha-healthanalytics**
+GitHub: **https://github.com/varsha-healthanalytics**
 
 LinkedIn: *(Coming Soon)*
 
