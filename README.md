@@ -71,7 +71,8 @@ Interactive healthcare dashboard built in Microsoft Excel to analyze stroke risk
 - Feature Engineering
 - Healthcare Insights
 
-🔗 **Repository:** [Stroke Risk Analysis Dashboard](./stroke-risk-analysis-dashboard)
+🔗 **Repository:**  
+https://github.com/varsha-healthanalytics/stroke-risk-analysis-dashboard
 
 ---
 
@@ -88,7 +89,8 @@ Healthcare SQL case study demonstrating analytical SQL techniques to answer real
 - Window Functions
 - Business Insights
 
-🔗 **Repository:** [Stroke Risk Analysis Using SQL](./stroke-risk-analysis-sql)
+🔗 **Repository:**  
+https://github.com/varsha-healthanalytics/stroke-risk-analysis-sql
 
 ---
 
@@ -104,7 +106,8 @@ Comprehensive Monitoring & Evaluation framework developed to improve Antenatal C
 - Data Flow Process
 - Program Evaluation Framework
 
-🔗 **Repository:** [ANC Monitoring & Evaluation Framework](./anc-monitoring-evaluation-framework)
+🔗 **Repository:**  
+https://github.com/varsha-healthanalytics/anc-monitoring-evaluation-framework
 
 ---
 
